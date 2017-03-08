@@ -1,0 +1,14 @@
+body{
+	background-color: ghostwhite;
+}
+
+h1{
+	text-align: center;
+	background-color: red;
+	color: white;
+	padding: 5px;
+}
+.js-search-form{
+	margin: auto 0;
+	text-align: center;
+}
