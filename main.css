@@ -12,3 +12,19 @@ h1{
 	margin: auto 0;
 	text-align: center;
 }
+
+.js-search-results {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.js-search-results p{
+	text-decoration: bold;
+	font-size: 25px;
+}
+
+.js-search-results img{
+	/*border: 1px solid blue;*/
+	padding-bottom: 25px;
+}
+
